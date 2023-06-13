@@ -40,8 +40,6 @@ $ ./package_statistics.py $architecture
 #test
 $ python test_package_statistics.py
 
-##Result:
-I take "amd64" for example.  Excution time is 13 seconds containing download files.
-I also run the test with unittest module in python. The Excution time for running 6 tests takes 86.769 seconds.
+
 
 
