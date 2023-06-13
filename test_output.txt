@@ -1,0 +1,7 @@
+<_io.BufferedWriter name='Contents-amd64.gz'> is successfully downloaded!
+<_io.BufferedWriter name='Contents-arm64.gz'> is successfully downloaded!
+<_io.BufferedWriter name='Contents-armel.gz'> is successfully downloaded!
+----------------------------------------------------------------------
+Ran 6 tests in 86.769s
+
+OK

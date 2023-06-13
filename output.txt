@@ -1,0 +1,31 @@
+<_io.BufferedWriter name='Contents-amd64.gz'> is successfully downloaded!
+Contents-amd64.gz
+--------------------------------------------------------------------------------
+#         Package_Name                                              Files_Counts
+--------------------------------------------------------------------------------
+1.        piglit                                                           51784
+2.        esys-particle                                                    18015
+3.        libboost1.74-dev                                                 14333
+4.        acl2-books                                                       12668
+5.        golang-1.15-src                                                   9015
+6.        liboce-modeling-dev                                               7457
+7.        zoneminder                                                        7002
+8.        paraview-dev                                                      6178
+9.        linux-headers-5.10.0-22-amd64                                     6163
+10.       linux-headers-5.10.0-20-amd64                                     6162
+<_io.BufferedWriter name='Contents-udeb-amd64.gz'> is successfully downloaded!
+Contents-udeb-amd64.gz
+--------------------------------------------------------------------------------
+#         Package_Name                                              Files_Counts
+--------------------------------------------------------------------------------
+1.        brltty-udeb                                                        373
+2.        espeak-ng-data-udeb                                                292
+3.        espeak-data-udeb                                                   275
+4.        sound-modules-5.10.0-20-amd64-di                                   231
+5.        sound-modules-5.10.0-22-amd64-di                                   231
+6.        nic-modules-5.10.0-20-amd64-di                                     153
+7.        nic-modules-5.10.0-22-amd64-di                                     153
+8.        nic-wireless-modules-5.10.0-20-amd64-di                            139
+9.        nic-wireless-modules-5.10.0-22-amd64-di                            139
+10.       libgdk-pixbuf-2.0-0-udeb                                           111
+Execution time: 0hours 0mins 13seconds
