@@ -1,24 +1,26 @@
 ## Enviorment:
-macOS Catalina
-Python 3.8.5
+- macOS Catalina
+- Python 3.8.5
 ***
 ## Tools:
-requests 2.24.0
-bs4 4.12.2
+- requests 2.24.0
+- bs4 4.12.2
 ***
 ## File Information:
-debenv/: virtual enviornment
-package_statistics.py: DebPackage class and main program
-test_package_statistics.py: Unit test
-output.png, output.txt: Show the result
-test_output.png, test_output.txt: Show the result of test
-README.md: Project Information 
+- debenv/: virtual enviornment
+- package_statistics.py: DebPackage class and main program
+- test_package_statistics.py: Unit test
+- output.png, output.txt: Show the result
+- test_output.png, test_output.txt: Show the result of test
+
 ***
 ## Install dependencies:
 ### Install the python virtual enviornment
+```
 python -m venv debenv
 source debenv/bin/activate
 pip3 install -r requirements.txt
+```
 ***
 ## Process:
 1. Send HTTP requests and fetch the response (HTML file).
@@ -35,10 +37,14 @@ pip3 install -r requirements.txt
 ***
 ## Run:
 ### main program
-$ ./package_statistics.py $architecture
+```
+./package_statistics.py $architecture
+```
 ***
 ## test
-$ python test_package_statistics.py
+```
+python test_package_statistics.py
+```
 
 
 
